@@ -1,0 +1,2 @@
+# Ignore the data folder, which contains the game's assets that are distributed under a commercial license. This folder is not part of the source code and should not be tracked by Git. Every user who wants to build the game from source must provide the assets from their own legally obtained copy.
+data/

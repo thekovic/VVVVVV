@@ -1,21 +1,9 @@
-[submodule "third_party/lodepng"]
-	path = third_party/lodepng
-	url = https://github.com/lvandeve/lodepng
-[submodule "third_party/physfs"]
-	path = third_party/physfs
-	url = https://github.com/icculus/physfs/
 [submodule "third_party/tinyxml2"]
 	path = third_party/tinyxml2
 	url = https://github.com/leethomason/tinyxml2/
-[submodule "third_party/FAudio"]
-	path = third_party/FAudio
-	url = https://github.com/FNA-XNA/FAudio
 [submodule "third_party/c-hashmap"]
 	path = third_party/c-hashmap
 	url = https://github.com/Mashpoe/c-hashmap
-[submodule "third_party/SheenBidi"]
-	path = third_party/SheenBidi
-	url = https://github.com/Tehreer/SheenBidi
 [submodule "third_party/libdragon"]
 	path = third_party/libdragon
 	url = https://github.com/DragonMinded/libdragon.git
